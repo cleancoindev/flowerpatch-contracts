@@ -25,14 +25,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/nugbase/flowerpatch-contracts.git"
+        "url": "git+ssh://git@github.com/cleancoindev/flowerpatch-contracts.git"
     },
     "author": "",
     "license": "UNLICENSED",
     "bugs": {
-        "url": "https://github.com/nugbase/flowerpatch-contracts/issues"
+        "url": "https://github.com/cleancoindev/flowerpatch-contracts/issues"
     },
-    "homepage": "https://github.com/nugbase/flowerpatch-contracts#readme",
+    "homepage": "https://github.com/cleancoindev/flowerpatch-contracts#readme",
     "devDependencies": {
         "truffle": "^4.1.14"
     },
